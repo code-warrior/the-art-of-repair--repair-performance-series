@@ -28,4 +28,4 @@ cat_command="${cat_command} > $target_file"
 
 eval $cat_command
 
-# open $target_file -a /Applications/Deckset.app/
+open $target_file -a /Applications/Deckset.app/
