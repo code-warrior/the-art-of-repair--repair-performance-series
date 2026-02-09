@@ -26,6 +26,6 @@ done
 
 cat_command="${cat_command} > $target_file"
 
-echo $cat_command
+eval $cat_command
 
 # open $target_file -a /Applications/Deckset.app/
