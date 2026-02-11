@@ -9,7 +9,7 @@ New York, NY 10029
 
 Sunday, 15 February 2026
 
-<!-- ![inline]("image of broken item or repaired item or both") -->
+![right](images/pencil-sharpener/3DD18884-1D0E-4800-98C9-E80EF60A8075.jpeg "Image of repaired pencil sharpener toothed gear")
 
 ---
 
