@@ -2,7 +2,7 @@
 
 ## Inaugural Session
 
-Repair Café El Barrio  
+[Repair Café El Barrio](https://www.repaircafeelbarrio.org/)
 El Barrio’s Artspace PS 109  
 215 E 99th Street  
 New York, NY 10027  
