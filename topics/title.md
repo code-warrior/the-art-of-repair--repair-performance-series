@@ -1,4 +1,5 @@
-# The Art of Repair<br>Repair Performance Series
+# The Art of Repair<br>_Repair Performance Series_
+
 ## Inaugural Session
 
 Repair Café El Barrio  
