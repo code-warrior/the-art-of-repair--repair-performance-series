@@ -5,7 +5,7 @@
 [Repair Café El Barrio](https://www.repaircafeelbarrio.org/)
 El Barrio’s Artspace PS 109  
 215 E 99th Street  
-New York, NY 10027  
+New York, NY 10029  
 
 Sunday, 15 February 2026
 
