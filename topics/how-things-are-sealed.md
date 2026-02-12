@@ -2,6 +2,7 @@
 
 * With screws
 * With glue
+* With adhesives
 * With snaps
 * With rivets
 
