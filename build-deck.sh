@@ -15,6 +15,7 @@ topics=(
   philosophical-perspective-on-repair.md
   taking-care-of-things.md
   resources.md
+  conclusion.md
   in-closing.md
 )
 
