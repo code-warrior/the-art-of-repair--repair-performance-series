@@ -1,6 +1,6 @@
 ## Topics
 
-* Introduction — Who Am I?
+* Who Am I?
 * Philosophical Perspective on Repair
 * How Things are Closed
 * Tools Needed to Open Things
