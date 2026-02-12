@@ -6,5 +6,9 @@
 * With snaps
 * With rivets
 
+^ Show picture of iPod(s) for example of snaps
+
+^ Google “rivets” in front of audience
+
 ---
 
