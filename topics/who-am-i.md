@@ -1,8 +1,10 @@
 ## Introduction
 
-* I’ve been repairing electronics and gadgets for decades
+* People in developing nations fix things instead of replacing them
+* I’ve fought against planned obsolescence since my teens
+* I’ve been repairing electronics and other miscellany for decades
 * No “repair” training, just curiosity
-* Guitar repair is what I’ve been doing most in the last few years
+* Guitar repair is what I’ve done — on and off — for most of the last few years
 
 ---
 
