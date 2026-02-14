@@ -4,6 +4,9 @@
 * The [Stack Exchange](https://stackexchange.com/) family of Q&A sites, including carpentry ([https://woodworking.stackexchange.com/](https://woodworking.stackexchange.com/)), bicycle maintenance ([https://bicycles.stackexchange.com/](https://bicycles.stackexchange.com/)), and arts and crafts ([https://crafts.stackexchange.com/](https://crafts.stackexchange.com/))
 * Google, Bing, and Ecosia will all likely yield results when you search for the problem you’re having
 * YouTube is also helpful when searching for solutions, as others likely have had the same problem
+* _Shop Class as Soulcraft_, Matthew Crawford 📖
+* _Made to Break: Technology and Obsolescence in America_, Giles Slade 📖
+* _Repair Revolution: How Fixers are Transforming Our Throwaway Culture_, John Waxman and Elizabeth Knight 📖
 
 ---
 
