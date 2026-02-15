@@ -8,11 +8,14 @@ topics=(
   title.md
   topics.md
   who-am-i.md
-  how-to-diagnose-a-problem.md
-  how-things-are-sealed.md
-  how-to-close-things.md
   philosophical-perspective-on-repair.md
-  taking-care-of-things.md
+  philosophical-perspective-on-repair--01-new-life.md
+  philosophical-perspective-on-repair--02-second-life.md
+  how-things-are-sealed.md
+  how-to-diagnose-a-problem.md
+  fear.md
+  add-notes-to-repairs-for-others.md
+  how-to-close-things.md
   resources.md
   conclusion.md
   in-closing.md
