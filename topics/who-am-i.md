@@ -1,4 +1,4 @@
-## Introduction
+## Who Am I?
 
 * I’ve fought against planned obsolescence since I was 18
 * I’ve been repairing electronics and other miscellany ever since
