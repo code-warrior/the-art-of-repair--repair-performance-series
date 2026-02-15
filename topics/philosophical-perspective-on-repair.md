@@ -1,4 +1,4 @@
-## Philosophical Perspective on Repairing Items
+## Philosophical Perspective on Repair
 
 I see items as having two lives:
 
