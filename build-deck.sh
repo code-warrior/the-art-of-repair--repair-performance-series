@@ -9,7 +9,6 @@ topics=(
   topics.md
   who-am-i.md
   how-to-diagnose-a-problem.md
-  how-to-diagnose-a-problem--example-01.md
   how-things-are-sealed.md
   how-to-close-things.md
   philosophical-perspective-on-repair.md
