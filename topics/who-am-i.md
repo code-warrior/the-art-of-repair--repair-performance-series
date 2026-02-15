@@ -1,8 +1,7 @@
 ## Introduction
 
-* People in developing nations fix things instead of replacing them
-* I’ve fought against planned obsolescence since my teens
-* I’ve been repairing electronics and other miscellany for decades
+* I’ve fought against planned obsolescence since I was 18
+* I’ve been repairing electronics and other miscellany ever since
 * No “repair” training, just curiosity
 * Guitar repair is what I’ve done — on and off — for most of the last few years
 
